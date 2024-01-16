@@ -7,7 +7,7 @@
 #### 🎓 Bachelor's Degree in Biotechnology - [2023]
 
 # Experience
-#### 💼 Store Manager with 7 years of experience in the retail sector, including 2 years in store management and team leadership. Dedicated to delivering exceptional customer service while driving sales growth and fostering a high-performing team. [2016 - 2024]
+#### 💼 Store Manager with 7 years of experience in the retail sector, including 2 years in store management and team leadership. Dedicated to delivering exceptional customer service while driving sales growth and fostering a high-performing team. [2016 - present]
 
 # INTERESTS
 #### 🖥️ Technology: Staying abreast of the latest technological advancements to remain informed and tech-savvy.
