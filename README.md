@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on Data Analysis
 
 # INTERESTS
-🖥️ Technology: Staying abreast of the latest technological advancements to remain informed and tech-savvy.
+###🖥️ Technology: Staying abreast of the latest technological advancements to remain informed and tech-savvy.
 🧠 Learning: Actively participating in courses and workshops across various areas of interest to foster continuous personal and professional growth.
 ✈️ Travel: Satisfying my curiosity by exploring new destinations and immersing myself in diverse cultures.
 🎵 Music: Playing guitar is a passion that allows me to express myself creatively.
