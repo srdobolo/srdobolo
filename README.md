@@ -1,4 +1,11 @@
 ### 👋 Hi, I’m @srdobolo
+### Born and living in Portugal
+# Education
+### Bachelor's Degree in Biotechnology
+
+# Experience
+### Store Manager with 7 years of experience in the retail sector, including 2 years in store management and team leadership. Dedicated to delivering exceptional customer service while driving sales growth and fostering a high-performing team.
+
 ### 🌱 I’m currently learning python and SQL 
 ### 💞️ I’m looking to collaborate on Data Analysis
 
