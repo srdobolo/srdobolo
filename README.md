@@ -9,7 +9,7 @@
 # Experience
 #### 💼 Store Manager with 7 years of experience in the retail sector, including 2 years in store management and team leadership. Dedicated to delivering exceptional customer service while driving sales growth and fostering a high-performing team. [2016 - present]
 
-# INTERESTS
+# Interests
 #### 🖥️ Technology: Staying abreast of the latest technological advancements to remain informed and tech-savvy.
 #### 🧠 Learning: Actively participating in courses and workshops across various areas of interest to foster continuous personal and professional growth.
 #### ✈️ Travel: Satisfying my curiosity by exploring new destinations and immersing myself in diverse cultures.
