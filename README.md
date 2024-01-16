@@ -1,6 +1,6 @@
-### - 👋 Hi, I’m @srdobolo
-### - 🌱 I’m currently learning python and SQL 
-### - 💞️ I’m looking to collaborate on Data Analysis
+### 👋 Hi, I’m @srdobolo
+### 🌱 I’m currently learning python and SQL 
+### 💞️ I’m looking to collaborate on Data Analysis
 
 # INTERESTS
 #### 🖥️ Technology: Staying abreast of the latest technological advancements to remain informed and tech-savvy.
