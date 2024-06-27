@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @srdobolo
-#### Born and living in Portugal
+#### ☀️ Born and living in Portugal
 #### 🌱 I’m currently learning python and SQL 
 #### 💞️ I’m looking to collaborate on Data Analysis
 
