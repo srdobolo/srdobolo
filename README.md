@@ -1,26 +1,53 @@
-### 👋 Hi, I’m @srdobolo
-#### ☀️ Born and living in Portugal
-#### 🌱 I’m currently learning python and SQL 
-#### 💞️ I’m looking to collaborate on Data Analysis
+# 👋 Hi, I’m @srdobolo
 
+### About Me
+☀️ **Based in Portugal**  
+🌱 **Currently Learning:** Python and SQL  
+💼 **Looking to Collaborate on:** Data Analysis projects  
 
-# Education
-#### 🎓 Bachelor's Degree in Biotechnology - [2023]
+---
 
+### 📚 Education
+🎓 **Bachelor's Degree in Biotechnology**  
+📅 **Graduated:** 2023  
 
-# Experience
-#### 💼 Store Manager with 8 years of experience in the retail sector, including 3 years in store management and team leadership. Dedicated to delivering exceptional customer service while driving sales growth and fostering a high-performing team. [2016 - present]
+---
 
+### 💼 Professional Experience
+**Store Manager**  
+- 8+ years of experience in the retail sector, including 3 years in store management and team leadership.  
+- Skilled in driving sales growth, delivering exceptional customer service, and fostering high-performing teams.  
+📅 **2016 - Present**
 
-# Interests
-#### 🖥️ Technology: Staying abreast of the latest technological advancements to remain informed and tech-savvy.
-#### 🧠 Learning: Actively participating in courses and workshops across various areas of interest to foster continuous personal and professional growth.
-#### ✈️ Travel: Satisfying my curiosity by exploring new destinations and immersing myself in diverse cultures.
-#### 🎵 Music: Playing guitar is a passion that allows me to express myself creatively.
-#### 🎾 Sports: Engaging in the dynamic sport of padel, which combines strategy and athleticism.
-#### 🎮 Games: Enjoying a diverse range of games, including video games, board games, and esports, for entertainment and strategic stimulation.
+---
 
-<!---
-srdobolo/srdobolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌟 Skills
+- **Programming:** Python (in progress), SQL (in progress)  
+- **Soft Skills:** Leadership, Communication, Problem-Solving, Team Building  
+- **Tools & Platforms:** Microsoft Excel, Power BI, Retail Management Systems  
+
+---
+
+### 🎯 Interests
+- **🖥️ Technology:** Passionate about staying informed on the latest advancements to remain tech-savvy.  
+- **🧠 Learning:** Continuously expanding my knowledge through courses and workshops.  
+- **✈️ Travel:** Exploring new cultures and destinations.  
+- **🎵 Music:** Guitarist with a love for creative expression.  
+- **🎾 Sports:** Active padel player who enjoys strategy and athleticism.  
+- **🎮 Gaming:** Enjoy a wide variety of games, including video games, board games, and esports.  
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=srdobolo&show_icons=true&theme=radical)
+
+### 📫 Let's Connect
+- **LinkedIn:** [Your LinkedIn Profile Link]  
+- **Email:** [Your Email Address]  
+
+---
+
+### 🚀 Goals for 2025
+- Master Python and SQL for data analysis.  
+- Build and contribute to open-source projects.  
+- Transition into a data analyst role.  
