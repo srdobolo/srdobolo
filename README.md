@@ -42,8 +42,8 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=srdobolo&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile Link]  
-- **Email:** [Your Email Address]  
+- **LinkedIn:** [Your LinkedIn Profile Link](https://www.linkedin.com/in/joaomiguellima/)  
+- **Twitter**   
 
 ---
 
