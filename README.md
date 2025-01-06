@@ -23,7 +23,7 @@
 ### 🌟 Skills
 - **Programming:** Python, SQL (in progress)  
 - **Soft Skills:** Leadership, Communication, Problem-Solving, Team Building  
-- **Tools & Platforms:** Microsoft Excel, Power BI, VSCode, HRIS, ATS
+- **Tools & Platforms:** Microsoft Excel, Power BI, VSCode, HRIS, ATS, Jira
 ---
 
 ### 🎯 Interests
