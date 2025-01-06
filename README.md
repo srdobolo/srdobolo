@@ -2,7 +2,6 @@
 
 ### About Me
 ☀️ **Based in Portugal**  
-🌱 **Currently Learning:** Python and SQL  
 💼 **Looking to Collaborate on:** Data Analysis projects  
 
 ---
@@ -17,15 +16,14 @@
 **Store Manager**  
 - 8+ years of experience in the retail sector, including 3 years in store management and team leadership.  
 - Skilled in driving sales growth, delivering exceptional customer service, and fostering high-performing teams.  
-📅 **2016 - Present**
+📅 **2016 - 2024**
 
 ---
 
 ### 🌟 Skills
-- **Programming:** Python (in progress), SQL (in progress)  
+- **Programming:** Python, SQL (in progress)  
 - **Soft Skills:** Leadership, Communication, Problem-Solving, Team Building  
-- **Tools & Platforms:** Microsoft Excel, Power BI, Retail Management Systems  
-
+- **Tools & Platforms:** Microsoft Excel, Power BI, VSCode, HRIS, ATS
 ---
 
 ### 🎯 Interests
