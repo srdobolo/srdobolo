@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @srdobolo
+# 👋 Hi, I’m João Miguel Lima
 
 ### About Me
 ☀️ **Based in Portugal**  
