@@ -8,8 +8,7 @@
 
 ### 💼 Professional Experience
 **Business Partner & Co-Founder**
-
-📅 **2024 - Current** 
+  📅 **2024 - Current** 
 
 **Store Manager**  
 - 8+ years of experience in the retail sector, including 3 years in store management and team leadership.  
