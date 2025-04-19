@@ -1,7 +1,7 @@
 # 👋 Hi, I’m João Miguel Lima
 
 ### 🌟 Skills
-- **Analytical:** Python, SQL (in progress)
+- **Data Analytics:** Python, SQL (in progress)
 - **Web Development:** HTML5, CSS3, JavaScript   
 - **Soft Skills:** Leadership, Analyticl Skills, Communication, Problem-Solving, Team Building  
 - **Tools & Platforms:** Microsoft Excel, PostgreSQL, Power BI, VSCode, Github, GIT, HRIS, ATS, Jira 
