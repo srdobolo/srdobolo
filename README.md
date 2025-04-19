@@ -8,6 +8,7 @@
 
 ### 💼 Professional Experience
 **Business Partner & Co-Founder**
+
 📅 **2024 - Current** 
 
 **Store Manager**  
