@@ -1,18 +1,15 @@
 # 👋 Hi, I’m João Miguel Lima
 
-### About Me
-☀️ **Based in Portugal**  
-💼 **Looking to Collaborate on:** Data Analysis projects  
-
----
-
-### 📚 Education
-🎓 **Bachelor's Degree in Biotechnology**  
-📅 **Graduated:** 2023  
-
+### 🌟 Skills
+- **Programming:** Python, SQL (in progress)  
+- **Soft Skills:** Leadership, Communication, Problem-Solving, Team Building  
+- **Tools & Platforms:** Microsoft Excel, Power BI, VSCode, HRIS, ATS, Jira
 ---
 
 ### 💼 Professional Experience
+**Business Partner & Co-Founder**
+📅 **2024 - Current** 
+
 **Store Manager**  
 - 8+ years of experience in the retail sector, including 3 years in store management and team leadership.  
 - Skilled in driving sales growth, delivering exceptional customer service, and fostering high-performing teams.  
@@ -20,10 +17,10 @@
 
 ---
 
-### 🌟 Skills
-- **Programming:** Python, SQL (in progress)  
-- **Soft Skills:** Leadership, Communication, Problem-Solving, Team Building  
-- **Tools & Platforms:** Microsoft Excel, Power BI, VSCode, HRIS, ATS, Jira
+### 📚 Education
+🎓 **Bachelor's Degree in Biotechnology**  
+📅 **Graduated:** 2023  
+
 ---
 
 ### 🎯 Interests
