@@ -11,10 +11,9 @@
 **Business Partner & Co-Founder**
   📅 **2024 - Current** 
 
-**Store Manager**  
+**Store Manager** 📅 **2016 - 2024**
 - 8+ years of experience in the retail sector, including 3 years in store management and team leadership.  
 - Skilled in driving sales growth, delivering exceptional customer service, and fostering high-performing teams.  
-📅 **2016 - 2024**
 
 ---
 
