@@ -1,11 +1,12 @@
 # Hi 👋, I'm João Miguel Lima
 
-I’m a versatile professional with a passion for leveraging technology to solve real-world challenges.
+I am a Business Intelligence and Data Analytics professional focused on transforming data into meaningful insights that drive strategic decision-making. I bring a strong background in KPI analysis, operational optimization, and team leadership experience that allows me to understand the real impact data can have on business performance.
 
-With 8 years of experience in the retail sector, including 3 years in store management, I’ve honed skills in team leadership, data-driven decision-making, and delivering exceptional customer experiences that drive growth.
+I currently work with Power BI, SQL, Python, ETL, and data modeling, developing analytical solutions and interactive dashboards. I have built end-to-end BI projects, including Ceramic World and Sales Dashboard, where I designed dimensional models, implemented ETL flows, and created advanced DAX measures and visualization layers.
 
-As a partner in a recruitment agency, I’ve built digital solutions to streamline hiring and connect top talent with leading companies, sharpening my ability to understand client needs and deliver results.
+I have an analytical mindset and enjoy solving complex problems, simplifying information, and creating clear, actionable insights. I am continuously learning, improving my BI skill set, and looking for opportunities to contribute to teams where data-driven decision-making is part of the culture.
 
-Specializing in data analytics and web development, I create innovative, responsive websites and data-driven solutions using tools like Python, SQL, JavaScript, HTML5 and CSS3.
+Core Skills:
+Power BI • DAX • Power Query • SQL • Python • ETL • Data Modeling • KPI Analytics • Data Storytelling
 
-Explore my portfolio to see how I blend technical proficiency with business skills to help companies thrive.
+Open to opportunities in Business Intelligence, Power BI, and Data Analytics.
